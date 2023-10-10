@@ -1,33 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Packages/manifest.json
+    m_FilePath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638186493590000000
-    m_Hash: 3654952636
+      ticks: 638325777330000000
+    m_Hash: 746814655
   m_LockFileStatus:
-    m_FilePath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Packages/packages-lock.json
+    m_FilePath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638186493590000000
-    m_Hash: 3833235037
+      ticks: 638325777360000000
+    m_Hash: 759182004
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Packages
-m_EditorVersion: 2022.2.17f1 (54cb9bda89c4)
+m_ProjectPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Packages
+m_EditorVersion: 2021.3.31f1 (3409e2af086f)
 m_ResolvedPackages:
 - packageId: com.unity.2d.pixel-perfect@5.0.3
   testable: 0
   isDirectDependency: 1
   version: 5.0.3
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.2d.pixel-perfect@5.0.3
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.2d.pixel-perfect@5.0.3
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -51,27 +51,10 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.0-preview
-    - 1.0.1-preview
-    - 2.0.2
-    - 2.0.3
-    - 2.0.4
-    - 2.1.0
-    - 3.0.0
-    - 3.0.1
-    - 3.0.2
-    - 4.0.0
-    - 4.0.1
-    - 5.0.0-pre.1
-    - 5.0.0-pre.2
-    - 5.0.0
-    - 5.0.1
-    - 5.0.2
     - 5.0.3
     compatible:
     - 5.0.3
-    recommended: 5.0.3
-    deprecated: []
+    verified: 5.0.3
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -89,7 +72,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638023910590000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -100,17 +83,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 5.0.3
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.2d.sprite@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -129,8 +107,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -158,17 +135,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.2d.tilemap@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.2d.tilemap@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.2d.tilemap@1.0.0
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -187,26 +159,9 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
-  dependencies:
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
   keywords:
   - 2d
   - Tilemap
@@ -231,17 +186,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.addressables@1.21.9
+- packageId: com.unity.addressables@1.19.19
   testable: 0
   isDirectDependency: 1
-  version: 1.21.9
+  version: 1.19.19
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.addressables@1.21.9
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.addressables@1.19.19
   assetPath: Packages/com.unity.addressables
   name: com.unity.addressables
   displayName: Addressables
@@ -274,105 +224,13 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.0.8-preview
-    - 0.0.12-preview
-    - 0.0.15-preview
-    - 0.0.16-preview
-    - 0.0.18-preview
-    - 0.0.22-preview
-    - 0.0.26-preview
-    - 0.0.27-preview
-    - 0.1.2-preview
-    - 0.2.1-preview
-    - 0.2.2-preview
-    - 0.3.5-preview
-    - 0.4.6-preview
-    - 0.4.8-preview
-    - 0.5.2-preview
-    - 0.5.3-preview
-    - 0.6.6-preview
-    - 0.6.7-preview
-    - 0.6.8-preview
-    - 0.7.4-preview
-    - 0.7.5-preview
-    - 0.8.4-preview
-    - 0.8.6-preview
-    - 1.1.3-preview
-    - 1.1.4-preview
-    - 1.1.5
-    - 1.1.7
-    - 1.1.9
-    - 1.1.10
-    - 1.2.2
-    - 1.2.3
-    - 1.2.4
-    - 1.3.3
-    - 1.3.8
-    - 1.4.0
-    - 1.5.0
-    - 1.5.1
-    - 1.6.0
-    - 1.6.2
-    - 1.7.4
-    - 1.7.5
-    - 1.8.3
-    - 1.8.4
-    - 1.8.5
-    - 1.9.2
-    - 1.10.0
-    - 1.11.2
-    - 1.12.0
-    - 1.13.1
-    - 1.14.2
-    - 1.15.1
-    - 1.16.1
-    - 1.16.6
-    - 1.16.7
-    - 1.16.8
-    - 1.16.10
-    - 1.16.12
-    - 1.16.13
-    - 1.16.15
-    - 1.16.16
-    - 1.16.19
-    - 1.17.0-preview
-    - 1.17.2-preview
-    - 1.17.4-preview
-    - 1.17.5-preview
-    - 1.17.6-preview
-    - 1.17.13
-    - 1.17.15
-    - 1.17.17
-    - 1.18.2
-    - 1.18.4
-    - 1.18.9
-    - 1.18.11
-    - 1.18.13
-    - 1.18.15
-    - 1.18.16
-    - 1.18.19
-    - 1.19.4
-    - 1.19.6
-    - 1.19.9
-    - 1.19.11
-    - 1.19.13
-    - 1.19.14
-    - 1.19.15
-    - 1.19.17
-    - 1.19.18
     - 1.19.19
-    - 1.20.0
-    - 1.20.3
-    - 1.20.5
-    - 1.21.1
-    - 1.21.9
     compatible:
-    - 1.21.9
-    recommended: 1.21.9
-    deprecated: []
+    - 1.19.19
+    verified: 1.19.19
   dependencies:
   - name: com.unity.scriptablebuildpipeline
-    version: 1.21.3
+    version: 1.19.6
   - name: com.unity.modules.assetbundle
     version: 1.0.0
   - name: com.unity.modules.imageconversion
@@ -385,7 +243,7 @@ m_ResolvedPackages:
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.scriptablebuildpipeline
-    version: 1.21.3
+    version: 1.20.1
   - name: com.unity.modules.assetbundle
     version: 1.0.0
   - name: com.unity.modules.imageconversion
@@ -413,27 +271,22 @@ m_ResolvedPackages:
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.addressables@1.21/manual/index.html
+  documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/Addressables.git
-    revision: 4af883961d7741769a2318578b3405c71bd2d7a6
+    revision: 2ac2ed2277c173a9a41ffeafa080525578c38e4f
     path: 
   unityLifecycle:
-    version: 1.21.9
+    version: 1.19.19
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.ads@4.4.2
   testable: 0
   isDirectDependency: 1
   version: 4.4.2
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.ads@4.4.2
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.ads@4.4.2
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement Legacy
@@ -504,8 +357,7 @@ m_ResolvedPackages:
     - 4.4.2
     compatible:
     - 4.4.2
-    recommended: 4.4.2
-    deprecated: []
+    verified: 4.4.2
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -527,7 +379,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638161229410000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ads@4.4/manual/index.html
@@ -540,83 +392,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 4.4.2
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.ai.navigation@1.1.3
+- packageId: com.unity.analytics@3.6.12
   testable: 0
   isDirectDependency: 1
-  version: 1.1.3
+  version: 3.6.12
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.ai.navigation@1.1.3
-  assetPath: Packages/com.unity.ai.navigation
-  name: com.unity.ai.navigation
-  displayName: AI Navigation
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: High-level NavMesh components for building and using NavMeshes at
-    runtime and at edit time.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.0-exp.1
-    - 1.0.0-exp.2
-    - 1.0.0-exp.3
-    - 1.0.0-exp.4
-    - 1.1.0-pre.1
-    - 1.1.0-pre.2
-    - 1.1.1
-    - 1.1.3
-    compatible:
-    - 1.1.3
-    recommended: 1.1.3
-    deprecated: []
-  dependencies:
-  - name: com.unity.modules.ai
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.ai
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 638173260900000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ai.navigation@1.1/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.ai.navigation.git
-    revision: 21cc07be635247d730f8d1ef7c1987e222159a45
-    path: 
-  unityLifecycle:
-    version: 1.1.3
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.analytics@3.8.1
-  testable: 0
-  isDirectDependency: 1
-  version: 3.8.1
-  source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.analytics@3.8.1
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.analytics@3.6.12
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
   displayName: Analytics Library
@@ -671,30 +452,19 @@ m_ResolvedPackages:
     - 3.7.1
     - 3.8.1
     compatible:
+    - 3.6.12
+    - 3.7.1
     - 3.8.1
-    recommended: 3.8.1
-    deprecated: []
+    verified: 3.6.12
   dependencies:
-  - name: com.unity.services.analytics
-    version: 1.0.4
   - name: com.unity.ugui
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.services.analytics
-    version: 4.4.0
   - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.services.core
-    version: 1.8.2
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.1.0
-  - name: com.unity.modules.androidjni
     version: 1.0.0
   keywords:
   - analytics
@@ -707,30 +477,25 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637789683740000000
+  datePublishedTicks: 637692274360000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.analytics.git
-    revision: 5ed31de2d0dd150fe8c907e98fc467da73b4b978
+    revision: 16fe75b69f168b066926595ade9b0473c3b32c5f
     path: 
   unityLifecycle:
-    version: 3.8.1
+    version: 3.6.12
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.collab-proxy@2.0.3
+- packageId: com.unity.collab-proxy@2.1.0
   testable: 0
   isDirectDependency: 1
-  version: 2.0.3
+  version: 2.1.0
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.collab-proxy@2.0.3
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.collab-proxy@2.1.0
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -739,7 +504,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Editor
-  type: asset
+  type: assets
   description: The package gives you the ability to use Unity Version Control in
     the Unity editor. To use Unity Version Control, a subscription is required. Learn
     more about how you can get started for free by visiting plasticscm.com.
@@ -810,17 +575,15 @@ m_ResolvedPackages:
     - 2.0.1
     - 2.0.3
     - 2.0.4
+    - 2.0.5
+    - 2.0.7
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
+    - 2.1.0
     compatible:
-    - 2.0.3
-    - 2.0.4
-    - 2.1.0-preview.3
-    - 2.1.0-preview.5
-    - 2.1.0-preview.6
-    recommended: 2.0.4
-    deprecated: []
+    - 2.1.0
+    verified: 2.1.0
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -846,30 +609,25 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638158826940000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.0/manual/index.html
+  datePublishedTicks: 638301329890000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: c189c3bb7a025aa19e1f0ab8851a09a34ff94016
+    revision: 179e96acc2f95fcb9dcc91b5fb2ee5f3e85d48aa
     path: 
   unityLifecycle:
-    version: 2.0.3
+    version: 2.1.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.ide.rider@3.0.20
+- packageId: com.unity.ide.rider@3.0.25
   testable: 0
   isDirectDependency: 1
-  version: 3.0.20
+  version: 3.0.25
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.ide.rider@3.0.20
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.ide.rider@3.0.25
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -878,7 +636,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: The JetBrains Rider Editor package provides an integration for using
     the JetBrains Rider IDE as a code editor for Unity. It adds support for generating
     .csproj files for code completion and auto-discovery of installations.
@@ -922,11 +680,12 @@ m_ResolvedPackages:
     - 3.0.18
     - 3.0.20
     - 3.0.21
+    - 3.0.22
+    - 3.0.24
+    - 3.0.25
     compatible:
-    - 3.0.20
-    - 3.0.21
-    recommended: 3.0.21
-    deprecated: []
+    - 3.0.25
+    verified: 3.0.25
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -942,30 +701,25 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638173205930000000
+  datePublishedTicks: 638300315270000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: b0b5d281f6e3a1b7e7c73939f5ed03dc0668bcc1
+    revision: e103b4771a884e656407e1b7219e5e3c20222552
     path: 
   unityLifecycle:
-    version: 3.0.20
+    version: 3.0.25
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.ide.visualstudio@2.0.18
+- packageId: com.unity.ide.visualstudio@2.0.21
   testable: 0
   isDirectDependency: 1
-  version: 2.0.18
+  version: 2.0.21
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.ide.visualstudio@2.0.18
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.ide.visualstudio@2.0.21
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -974,7 +728,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: Code editor integration for supporting Visual Studio as code editor
     for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
@@ -1003,10 +757,11 @@ m_ResolvedPackages:
     - 2.0.16
     - 2.0.17
     - 2.0.18
+    - 2.0.20
+    - 2.0.21
     compatible:
-    - 2.0.18
-    recommended: 2.0.18
-    deprecated: []
+    - 2.0.21
+    verified: 2.0.21
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
@@ -1028,30 +783,25 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638173205920000000
+  datePublishedTicks: 638300315250000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: 9d3c07127cbe1916b8abbfd18f71fb8d9df8008c
+    revision: eb2b500b99f6429d3d9dcb8acbcbd366dfbb42be
     path: 
   unityLifecycle:
-    version: 2.0.18
+    version: 2.0.21
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.ide.vscode@1.2.5
   testable: 0
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.ide.vscode@1.2.5
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -1083,8 +833,7 @@ m_ResolvedPackages:
     - 1.2.5
     compatible:
     - 1.2.5
-    recommended: 1.2.5
-    deprecated: []
+    verified: 1.2.5
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -1096,7 +845,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637800255360000000
   documentationUrl: 
@@ -1109,17 +858,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.5
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.purchasing@4.8.0
+- packageId: com.unity.purchasing@4.9.3
   testable: 0
   isDirectDependency: 1
-  version: 4.8.0
+  version: 4.9.3
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.purchasing@4.8.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.purchasing@4.9.3
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -1128,7 +872,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: "IMPORTANT UPGRADE NOTES:\n\nIf updating from Unity IAP (com.unity.purchasing
     + the Asset Store plugin) versions 2.x to version 3.x, complete the following
     actions in order to resolve compilation errors:\n 1. Move IAPProductCatalog.json
@@ -1208,10 +952,13 @@ m_ResolvedPackages:
     - 4.6.0
     - 4.7.0
     - 4.8.0
+    - 4.9.2
+    - 4.9.3
+    - 4.9.4
     compatible:
-    - 4.8.0
-    recommended: 4.8.0
-    deprecated: []
+    - 4.9.3
+    - 4.9.4
+    verified: 4.9.4
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1241,9 +988,9 @@ m_ResolvedPackages:
   - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.8.2
+    version: 1.11.0
   - name: com.unity.nuget.newtonsoft-json
-    version: 3.1.0
+    version: 3.2.1
   keywords:
   - purchasing
   - iap
@@ -1258,28 +1005,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638170648480000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.purchasing@4.8/manual/index.html
+  datePublishedTicks: 638223389530000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.purchasing@4.9/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
-    revision: 764a3bd5b373bbdb7bbd3a87a2b260204d2b1365
+    revision: 42718bbbc4b238be117b2c0c72c843152dffec63
     path: 
   unityLifecycle:
-    version: 4.8.0
+    version: 4.9.3
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.test-framework@1.1.33
   testable: 0
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.test-framework@1.1.33
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1333,6 +1075,10 @@ m_ResolvedPackages:
     - 1.3.2
     - 1.3.3
     - 1.3.4
+    - 1.3.5
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -1344,12 +1090,15 @@ m_ResolvedPackages:
     - 1.3.2
     - 1.3.3
     - 1.3.4
+    - 1.3.5
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
-    recommended: 1.1.33
-    deprecated: []
+    verified: 1.1.33
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -1375,7 +1124,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637938212700000000
   documentationUrl: 
@@ -1388,17 +1137,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.1.33
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.textmeshpro@3.0.6
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1516,6 +1260,8 @@ m_ResolvedPackages:
     - 3.2.0-pre.2
     - 3.2.0-pre.3
     - 3.2.0-pre.4
+    - 3.2.0-pre.5
+    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -1524,10 +1270,9 @@ m_ResolvedPackages:
     - 3.2.0-pre.2
     - 3.2.0-pre.3
     - 3.2.0-pre.4
-    - 4.0.0-pre.1
-    - 4.0.0-pre.2
-    recommended: 3.0.6
-    deprecated: []
+    - 3.2.0-pre.5
+    - 3.2.0-pre.6
+    verified: 3.0.6
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1552,7 +1297,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637547111200000000
   documentationUrl: 
@@ -1565,17 +1310,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.6
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.timeline@1.7.4
+- packageId: com.unity.timeline@1.6.5
   testable: 0
   isDirectDependency: 1
-  version: 1.7.4
+  version: 1.6.5
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.timeline@1.7.4
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.timeline@1.6.5
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1667,16 +1407,30 @@ m_ResolvedPackages:
     - 1.7.2
     - 1.7.3
     - 1.7.4
+    - 1.7.5
     - 1.8.0
     - 1.8.1
     - 1.8.2
+    - 1.8.3
+    - 1.8.4
+    - 1.8.5
     compatible:
+    - 1.6.5
+    - 1.7.0-pre.1
+    - 1.7.0-pre.2
+    - 1.7.0
+    - 1.7.1
+    - 1.7.2
+    - 1.7.3
     - 1.7.4
+    - 1.7.5
     - 1.8.0
     - 1.8.1
     - 1.8.2
-    recommended: 1.7.4
-    deprecated: []
+    - 1.8.3
+    - 1.8.4
+    - 1.8.5
+    verified: 1.6.5
   dependencies:
   - name: com.unity.modules.director
     version: 1.0.0
@@ -1709,30 +1463,25 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638143790870000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.7/manual/index.html
+  datePublishedTicks: 638182037450000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.6/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: 1f458a5d3f2bc66f0c1182feeaa9fcea4e8b1496
+    revision: 4ed67a7e62ce940db3d44dc5eca8fade1c664aed
     path: 
   unityLifecycle:
-    version: 1.7.4
+    version: 1.6.5
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.toolchain.macos-x86_64-linux-x86_64@2.0.4
   testable: 0
   isDirectDependency: 1
   version: 2.0.4
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.toolchain.macos-x86_64-linux-x86_64@2.0.4
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.toolchain.macos-x86_64-linux-x86_64@2.0.4
   assetPath: Packages/com.unity.toolchain.macos-x86_64-linux-x86_64
   name: com.unity.toolchain.macos-x86_64-linux-x86_64
   displayName: Toolchain MacOS Linux x64
@@ -1771,10 +1520,13 @@ m_ResolvedPackages:
     - 2.0.2
     - 2.0.3
     - 2.0.4
+    - 2.0.5
+    - 2.0.6
     compatible:
     - 2.0.4
-    recommended: 2.0.4
-    deprecated: []
+    - 2.0.5
+    - 2.0.6
+    verified: 2.0.6
   dependencies:
   - name: com.unity.sysroot
     version: 2.0.5
@@ -1799,7 +1551,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638067882700000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.toolchain.macos-x86_64-linux-x86_64@2.0/manual/index.html
@@ -1812,17 +1564,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 2.0.4
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.ugui@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1842,10 +1589,10 @@ m_ResolvedPackages:
     all:
     - 1.0.0
     - 3.0.0-exp.1
+    - 3.0.0-exp.3
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.ui
     version: 1.0.0
@@ -1882,17 +1629,66 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
+- packageId: com.unity.ui.builder@2.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 2.0.0
+  source: 2
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.ui.builder@2.0.0
+  assetPath: Packages/com.unity.ui.builder
+  name: com.unity.ui.builder
+  displayName: UI Builder
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: shim
+  description: 'The UI Builder lets you visually create and edit UI assets such as
+    UI documents (.uxml files), and stylesheets (.uss files), that you use with Unity''s
+    UI Toolkit (formerly UIElements).\n\nTo open the UI Builder window, select Window
+    > UI Toolkit > UI Builder from the menu.\n\nNote: In Unity 2019.x, you open the
+    UI Builder from the Window > UI > UI Builder menu.\n\nNote: UI Builder is the
+    visual authoring tool for UI Toolkit. For details, please see the UI Builder
+    package documentation.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 2.0.0
+    compatible:
+    - 2.0.0
+    verified: 2.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: com.unity.xr.legacyinputhelpers@2.1.10
   testable: 0
   isDirectDependency: 1
   version: 2.1.10
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -1939,8 +1735,7 @@ m_ResolvedPackages:
     - 2.1.10
     compatible:
     - 2.1.10
-    recommended: 2.1.10
-    deprecated: []
+    verified: 2.1.10
   dependencies:
   - name: com.unity.modules.vr
     version: 1.0.0
@@ -1971,7 +1766,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637958908030000000
   documentationUrl: 
@@ -1984,17 +1779,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 2.1.10
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.ai@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -2013,8 +1803,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2039,17 +1828,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.androidjni@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.androidjni@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -2067,8 +1851,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2093,17 +1876,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.animation@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.animation@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -2122,8 +1900,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2148,17 +1925,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.assetbundle@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -2177,8 +1949,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2203,17 +1974,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.audio@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.audio@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -2232,8 +1998,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2258,17 +2023,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.cloth@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.cloth@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2287,8 +2047,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.physics
     version: 1.0.0
@@ -2317,17 +2076,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.director@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.director@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2346,8 +2100,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.audio
     version: 1.0.0
@@ -2380,17 +2133,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.imageconversion@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2410,8 +2158,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2436,17 +2183,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.imgui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.imgui@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2465,8 +2207,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2491,17 +2232,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.jsonserialize@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2520,8 +2256,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2546,17 +2281,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.particlesystem@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2575,8 +2305,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2601,17 +2330,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.physics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.physics@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2630,8 +2354,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2656,17 +2379,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.physics2d@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.physics2d@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2685,8 +2403,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2711,17 +2428,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.screencapture@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.screencapture@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2740,8 +2452,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.imageconversion
     version: 1.0.0
@@ -2770,17 +2481,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.terrain@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.terrain@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2799,8 +2505,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -2825,17 +2530,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.terrainphysics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2854,8 +2554,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.physics
     version: 1.0.0
@@ -2888,17 +2587,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.tilemap@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.tilemap@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2916,8 +2610,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.physics2d
     version: 1.0.0
@@ -2946,17 +2639,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.ui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.ui@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2975,8 +2663,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -3001,17 +2688,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.uielements@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.uielements@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -3030,8 +2712,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.ui
     version: 1.0.0
@@ -3039,12 +2720,16 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
   resolvedDependencies:
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
     version: 1.0.0
   keywords: []
   registry:
@@ -3068,17 +2753,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.umbra@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.umbra@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -3097,8 +2777,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -3123,17 +2802,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unityanalytics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -3152,8 +2826,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -3186,17 +2859,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unitywebrequest@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -3215,8 +2883,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -3241,17 +2908,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unitywebrequestassetbundle@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -3270,8 +2932,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.assetbundle
     version: 1.0.0
@@ -3304,17 +2965,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unitywebrequestaudio@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -3333,8 +2989,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -3367,17 +3022,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unitywebrequesttexture@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3396,8 +3046,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -3430,17 +3079,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.unitywebrequestwww@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3459,8 +3103,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -3509,17 +3152,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.vehicles@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.vehicles@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3538,8 +3176,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.physics
     version: 1.0.0
@@ -3568,17 +3205,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.video@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.video@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3597,8 +3229,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.audio
     version: 1.0.0
@@ -3635,17 +3266,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.vr@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.vr@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3664,8 +3290,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
@@ -3704,17 +3329,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.wind@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.wind@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3733,8 +3353,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -3759,17 +3378,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.xr@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.xr@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3788,8 +3402,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.physics
     version: 1.0.0
@@ -3826,17 +3439,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.modules.subsystems@1.0.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3855,8 +3463,7 @@ m_ResolvedPackages:
     - 1.0.0
     compatible:
     - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
+    verified: 1.0.0
   dependencies:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
@@ -3885,17 +3492,72 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
+- packageId: com.unity.modules.uielementsnative@1.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.0
+  source: 2
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0
+  assetPath: Packages/com.unity.modules.uielementsnative
+  name: com.unity.modules.uielementsnative
+  displayName: UIElements Native
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: com.unity.sysroot@2.0.5
   testable: 0
   isDirectDependency: 0
   version: 2.0.5
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.sysroot@2.0.5
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.sysroot@2.0.5
   assetPath: Packages/com.unity.sysroot
   name: com.unity.sysroot
   displayName: Sysroot Base
@@ -3929,10 +3591,13 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
     compatible:
     - 2.0.5
-    recommended: 2.0.5
-    deprecated: []
+    - 2.0.6
+    - 2.0.7
+    verified: 2.0.7
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -3947,7 +3612,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638067882470000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.sysroot@2.0/manual/index.html
@@ -3960,17 +3625,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 2.0.5
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.sysroot.linux-x86_64@2.0.4
   testable: 0
   isDirectDependency: 0
   version: 2.0.4
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.sysroot.linux-x86_64@2.0.4
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.sysroot.linux-x86_64@2.0.4
   assetPath: Packages/com.unity.sysroot.linux-x86_64
   name: com.unity.sysroot.linux-x86_64
   displayName: Sysroot Linux x64
@@ -4001,10 +3661,13 @@ m_ResolvedPackages:
     - 2.0.2
     - 2.0.3
     - 2.0.4
+    - 2.0.5
+    - 2.0.6
     compatible:
     - 2.0.4
-    recommended: 2.0.4
-    deprecated: []
+    - 2.0.5
+    - 2.0.6
+    verified: 2.0.6
   dependencies:
   - name: com.unity.sysroot
     version: 2.0.5
@@ -4023,7 +3686,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638067882520000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.sysroot.linux-x86_64@2.0/manual/index.html
@@ -4036,17 +3699,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 2.0.4
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
 - packageId: com.unity.ext.nunit@1.0.6
   testable: 0
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.ext.nunit@1.0.6
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4070,12 +3728,15 @@ m_ResolvedPackages:
     - 1.0.6
     - 2.0.2
     - 2.0.3
+    - 2.0.4
+    - 2.0.5
     compatible:
     - 1.0.6
     - 2.0.2
     - 2.0.3
-    recommended: 1.0.6
-    deprecated: []
+    - 2.0.4
+    - 2.0.5
+    verified: 1.0.6
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -4090,7 +3751,7 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637429759280000000
   documentationUrl: 
@@ -4103,17 +3764,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.services.core@1.8.2
+- packageId: com.unity.services.core@1.11.0
   testable: 0
   isDirectDependency: 0
-  version: 1.8.2
+  version: 1.11.0
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.services.core@1.8.2
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.services.core@1.11.0
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -4122,7 +3778,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: 'This package defines common components used by multiple Game Service
     packages.
 
@@ -4153,22 +3809,24 @@ m_ResolvedPackages:
     - 1.7.1
     - 1.8.1
     - 1.8.2
+    - 1.9.0
+    - 1.10.1
+    - 1.11.0
     compatible:
-    - 1.8.2
-    recommended: 1.8.2
-    deprecated: []
+    - 1.11.0
+    verified: 1.11.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
+    version: 3.2.1
   - name: com.unity.modules.androidjni
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
-    version: 3.1.0
+    version: 3.2.1
   - name: com.unity.modules.androidjni
     version: 1.0.0
   keywords: []
@@ -4180,129 +3838,25 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638162786460000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.8/manual/index.html
+  datePublishedTicks: 638269929060000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.11/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 76259ae8be68ef4e25a5783d8bcf476d7ed09d17
+    revision: dd29ee68b03935e05ea9551c5cf1e9c5ec83d939
     path: 
   unityLifecycle:
-    version: 1.8.2
+    version: 1.11.0
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.services.analytics@4.4.0
+- packageId: com.unity.scriptablebuildpipeline@1.20.1
   testable: 0
   isDirectDependency: 0
-  version: 4.4.0
+  version: 1.20.1
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.services.analytics@4.4.0
-  assetPath: Packages/com.unity.services.analytics
-  name: com.unity.services.analytics
-  displayName: Analytics
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: The Unity Analytics package automatically collects core events and
-    user properties when someone uses your game or application, and enables you to
-    track specific in-game actions your user performs by defining custom events.
-    The data collected from this package is surfaced in the Unity dashboard where
-    you can use it to gather user insights, segment your player base and make informed
-    decisions around the optimization of your game.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.3
-    - 1.0.4
-    - 1.0.5
-    - 2.0.7-pre.4
-    - 2.0.7-pre.6
-    - 2.0.7-pre.7
-    - 3.0.0-pre.2
-    - 3.0.0-pre.3
-    - 3.0.0-pre.4
-    - 4.0.0-pre.2
-    - 4.0.0-pre.3
-    - 4.0.0
-    - 4.0.1
-    - 4.1.0
-    - 4.2.0
-    - 4.3.0
-    - 4.4.0
-    - 4.4.1
-    - 4.4.2
-    compatible:
-    - 4.4.0
-    - 4.4.1
-    - 4.4.2
-    recommended: 4.4.2
-    deprecated: []
-  dependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.services.core
-    version: 1.8.1
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  resolvedDependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.services.core
-    version: 1.8.2
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.1.0
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 638139658640000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.analytics@4.4/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 5db3aa3dee060f5a0e7a2730049651a66a7fafbe
-    path: 
-  unityLifecycle:
-    version: 4.4.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.scriptablebuildpipeline@1.21.3
-  testable: 0
-  isDirectDependency: 0
-  version: 1.21.3
-  source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.3
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.scriptablebuildpipeline@1.20.1
   assetPath: Packages/com.unity.scriptablebuildpipeline
   name: com.unity.scriptablebuildpipeline
   displayName: Scriptable Build Pipeline
@@ -4320,63 +3874,10 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.0.5-preview
-    - 0.0.6-preview
-    - 0.0.8-preview
-    - 0.0.9-preview
-    - 0.0.10-preview
-    - 0.0.14-preview
-    - 0.0.15-preview
-    - 0.1.0-preview
-    - 0.2.0-preview
-    - 1.0.1-preview
-    - 1.1.0-preview
-    - 1.1.1-preview
-    - 1.2.1-preview
-    - 1.3.5-preview
-    - 1.4.1-preview
-    - 1.5.0-preview
-    - 1.5.1
-    - 1.5.2
-    - 1.5.4
-    - 1.5.6
-    - 1.5.10
-    - 1.6.3-preview
-    - 1.6.4-preview
-    - 1.6.5-preview
-    - 1.7.2
-    - 1.7.3
-    - 1.8.2
-    - 1.8.4
-    - 1.8.6
-    - 1.9.0
-    - 1.10.0
-    - 1.11.1
-    - 1.11.2
-    - 1.12.0
-    - 1.13.1
-    - 1.14.0
-    - 1.14.1
-    - 1.15.1
-    - 1.15.2
-    - 1.16.1
-    - 1.17.0
-    - 1.18.0
-    - 1.19.0
-    - 1.19.1
-    - 1.19.2
-    - 1.19.3
-    - 1.19.4
-    - 1.19.5
-    - 1.19.6
     - 1.20.1
-    - 1.20.2
-    - 1.21.0
-    - 1.21.3
     compatible:
-    - 1.21.3
-    recommended: 1.21.3
-    deprecated: []
+    - 1.20.1
+    verified: 1.20.1
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -4397,27 +3898,22 @@ m_ResolvedPackages:
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.scriptablebuildpipeline@1.21/manual/index.html
+  documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/Addressables.git
-    revision: 983b68f6151bf3c52a38fd509d418d1369086e63
+    revision: f2d9aac4eb254f268ff4e23f800ccc30c53dbd75
     path: 
   unityLifecycle:
-    version: 1.21.3
+    version: 1.20.1
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.nuget.newtonsoft-json@3.1.0
+- packageId: com.unity.nuget.newtonsoft-json@3.2.1
   testable: 0
   isDirectDependency: 0
-  version: 3.1.0
+  version: 3.2.1
   source: 1
-  resolvedPath: /Users/jason.greco/Workspace/cicd/addressablesTestProject/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.1.0
+  resolvedPath: /Users/jason.greco/Workspace/cicd/addressables-test-project/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -4456,11 +3952,10 @@ m_ResolvedPackages:
     - 3.0.2
     - 3.1.0
     - 3.2.0
+    - 3.2.1
     compatible:
-    - 3.1.0
-    - 3.2.0
-    recommended: 3.1.0
-    deprecated: []
+    - 3.2.1
+    verified: 3.2.1
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -4474,19 +3969,14 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638143166550000000
+  datePublishedTicks: 638186318800000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-    revision: 686b43c15210b5f3e0145e51147079a8d2551bd9
+    revision: d8e49aef8979bef617144382052ec2f479645eaf
     path: 
   unityLifecycle:
-    version: 3.1.0
+    version: 3.2.1
     nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
